@@ -1,3 +1,5 @@
+# to use coolprop, must run "pip install coolprop" from terminal
+
 from CoolProp.CoolProp import PropsSI
 import matplotlib.pyplot as plot
 
